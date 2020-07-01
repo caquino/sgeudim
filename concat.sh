@@ -4,6 +4,6 @@ URLS=( https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/vo
 for url in ${URLS}; do
 	curl ${url}
 done > output$$.tmp
-
+rm sgeudim.txt
 cat *.txt >> output$$.tmp
 mv output$$.tmp sgeudim.txt
