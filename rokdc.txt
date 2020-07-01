@@ -1,0 +1,422 @@
+title:RokDC must haves
+description:Originally found at https://docs.google.com/spreadsheets/d/1jeWnT__TQk4lWtPn1WJYFTmr1XZ9QVvTe6hxSQnhrys/edit#gid=0
+
+// Auto Rifles
+
+// The Forward Path
+//FF/MKC
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=1690783811&perks=2779035018,2458213969
+//FF/Swash
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=1690783811&perks=2779035018,4082225868
+
+// Gnawing Hunder
+//Sub/Rampage
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=821154603&perks=1820235745,3425386926
+dimwishlist:item=821154603&perks=1820235745,3551326236
+//FP/MKC
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=821154603&perks=2869569095,2458213969
+
+// Summoner
+//Overflow/Rampage
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=1907698332&perks=3643424744,3425386926
+dimwishlist:item=1907698332&perks=3643424744,3551326236
+
+// Reckless Oracle
+//Outlaw/KC
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=3385326721&perks=1528281896,1015611457
+dimwishlist:item=3385326721&perks=1168162263,1015611457
+//Outlaw/Swash
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=3385326721&perks=1528281896,4082225868
+dimwishlist:item=3385326721&perks=1168162263,4082225868
+//Outlaw/Demo
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=3385326721&perks=1528281896,3523296417
+dimwishlist:item=3385326721&perks=1528281896,3523296417
+
+// False Promises
+//FF/Rampage
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=3143732432&perks=2779035018,3425386926
+dimwishlist:item=3143732432&perks=2779035018,3551326236
+//Sub/Unrelenting
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=3143732432&perks=1820235745,3108830275
+
+// Uriel's Gift
+//FP/KC
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=3863882743&perks=2869569095,1015611457
+
+// Hand Cannons
+
+// Nation of Beasts
+//Outlaw/Rampage
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=654370424&perks=1528281896,3425386926
+dimwishlist:item=654370424&perks=1168162263,3425386926
+dimwishlist:item=654370424&perks=1528281896,3551326236
+dimwishlist:item=654370424&perks=1168162263,3551326236
+//Outlaw/Dragonfly
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=654370424&perks=1528281896,3865257976
+dimwishlist:item=654370424&perks=1168162263,3865257976
+
+// Old Fashioned
+//FF/KC
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=3569802112&perks=2779035018,1015611457
+//Demo/KC
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=3569802112&perks=3523296417,1015611457
+
+// Dire Promise
+//Overf/Swash
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=2742838701&perks=3643424744,4082225868
+//Overf/Osmosis
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=2742838701&perks=3643424744,1774574192
+
+// Ancient Gospel
+//RH/KC
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=48643186&perks=247725512,1015611457
+//RH/Swash
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=48643186&perks=247725512,4082225868
+
+// Pulse Rifles
+
+// Chattering Bone
+//Outlaw/Rampage
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=568515759&perks=1528281896,3425386926
+dimwishlist:item=568515759&perks=1168162263,3425386926
+dimwishlist:item=568515759&perks=1528281896,3551326236
+dimwishlist:item=568515759&perks=1168162263,3551326236
+
+
+// Cold Denial
+//FF/MKC
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=1216130969&perks=2779035018,2458213969
+//FF/Swash
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=1216130969&perks=2779035018,4082225868
+
+// Sacred Provenance
+//RH/KC
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=2408405461&perks=247725512,247725512
+
+
+// Scout Rifles
+
+// Night Watch
+//RH/MKC
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=3504336176&perks=247725512,2458213969
+//RH/Rampage
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=3504336176&perks=247725512,3425386926
+dimwishlist:item=3504336176&perks=247725512,3551326236
+
+// The Scholar
+//Full Auto/Vorpal
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=2478792241&perks=2117683199,1546637391
+dimwishlist:item=2478792241&perks=4267945040,1546637391
+
+// Sidearms
+
+//Breachlight
+//Demo/Rampage
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=1289997971&perks=3523296417,3551326236
+dimwishlist:item=1289997971&perks=3523296417,3425386926
+//Outlaw/MKC
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=1289997971&perks=1528281896,2458213969
+dimwishlist:item=1289997971&perks=1168162263,2458213969
+
+
+// Last Hope
+//FF/MKC
+//notes:RokDC (must have Season of Arrivals)
+dimwishlist:item=3622137132&perks=2779035018,2458213969
+//FF/Rampage
+//notes:RokDC (must have Season of Arrivals)
+dimwishlist:item=3622137132&perks=2779035018,3425386926
+dimwishlist:item=3622137132&perks=2779035018,3551326236
+
+// Fools Remedy
+//FF/KC
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=65611680&perks=2779035018,1015611457
+
+// Lonesome
+//RH/MKC
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=2199171672&perks=247725512,2458213969
+//Full Auto/KC
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=2199171672&perks=2117683199,1015611457
+dimwishlist:item=2199171672&perks=4267945040,1015611457
+
+// SMGs
+// Death Adder
+//FF/Disruption
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=2742490609&perks=2779035018,1683379515
+//FF/Rampage
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=2742490609&perks=2779035018,3551326236
+dimwishlist:item=2742490609&perks=2779035018,3425386926
+
+// Escape Velocity
+//Overflow/Vorpal
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=1786797708&perks=3643424744,1546637391
+//Overflow/Surrounded
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=1786797708&perks=3643424744,3708227201
+
+// Ikelos SMG
+//Threat/Demo
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=2222560548&perks=4071163871,3523296417
+//Threat/Disruption
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=2222560548&perks=4071163871,1683379515
+
+// 7th Seraph SMG
+//AA/Vorpal
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=766323545&perks=2010801679,1546637391
+//AA/Dragonfly
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=766323545&perks=2010801679,3865257976
+
+// Bows
+// Accrued Redemption
+//Tempo/Rampage
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=4095896073&perks=201365942,3551326236
+dimwishlist:item=4095896073&perks=201365942,3425386926
+
+// Whispering Slab
+//Tempo/Vorpal
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=211938782&perks=201365942,1546637391
+//Tempo/Unrelenting
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=211938782&perks=201365942,3108830275
+
+
+// Shotguns
+//First in, Last Out
+//ALH/Vorpal
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=3616586446&perks=3300816228,1546637391
+//ALH/Demo
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=3616586446&perks=3300816228,3523296417
+
+// Hawthorne
+//Full Auto/1-2
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=1807343361&perks=2117683199,2679249093
+dimwishlist:item=1807343361&perks=4267945040,2679249093
+//Grave Robber/1-2
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=1807343361&perks=1631667848,2679249093
+
+// Ikelos Shotgun
+//FF/Trench
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=1096206669&perks=2779035018,2360754333
+
+//Prophet of Doom
+//Full Auto/1-2
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=4020742303&perks=2117683199,2679249093
+dimwishlist:item=4020742303&perks=4267945040,2679249093
+
+// Seventh Seraph Shotgun
+//ALH/1-2
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=1821724780&perks=3300816228,2679249093
+
+
+// Astral Horizon
+//ALH/1-2
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=1697682876&perks=3300816228,2679249093
+
+
+// Sniper Rifles
+// Bite of the Fox
+//Snapshot/Field Prep
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=3169616514&perks=957782887,2869569095
+
+//Distant Tumulus
+//CC/Firing Line
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=2807687156&perks=2284787283,1771339417
+//CC/Snapshot
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=2807687156&perks=2284787283,957782887
+
+
+//Eye of Sol
+//Field Prep/Vorpal
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=3164743584&perks=2869569095,1546637391
+
+//Supremacy
+//Snapshot/TT
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=686951703&perks=957782887,3400784728
+
+//AA/TT
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=686951703&perks=2010801679,3400784728
+
+//Ikelos Sniper Rifle
+//4TTC/High Impact
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=1253087083&perks=1354429876,2213355989
+
+// Fusion Rifles
+
+// Hollow Words
+//FF/Vorpal
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=607191995&perks=2779035018,1546637391
+
+//FF/Unrelenting
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=607191995&perks=2779035018,3108830275
+
+//Techeun Force
+//ALH/Rampage
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=4094657108&perks=3300816228,3551326236
+dimwishlist:item=4094657108&perks=3300816228,3425386926
+
+//Zealot's Reward
+//ALH/Backup
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=2209003210&perks=3300816228,1600092898
+
+//FF/Rampage
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=2209003210&perks=2779035018,3551326236
+dimwishlist:item=2209003210&perks=2779035018,3425386926
+
+//Exile's Curse
+//Field Prep/MKC
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=679281855&perks=2869569095,2458213969
+
+//Elatha FR4
+//Field Prep/KC
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=4106983932&perks=2869569095,1015611457
+
+//Timelines Vertex
+//ALH/Demo
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=3055192515&perks=3300816228,3523296417
+
+// Grenade Launchers
+// Interference VI
+//CC/FC
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=2257180473&perks=2284787283,2888557110
+
+//ALH/Demo
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=2257180473&perks=3300816228,3523296417
+
+//Martyr's Retribution
+//ALH/Demo
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=3850168899&perks=3300816228,3523296417
+
+//Truthteller
+//FF/MKC
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=1946491241&perks=2779035018,2458213969
+
+//FP/Quickdraw
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=1946491241&perks=2869569095,706527188
+
+//Outrageous Fortune
+//ALH/Quickdraw
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=4146702548&perks=3300816228,706527188
+
+//FP/AA
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=4146702548&perks=2869569095,2010801679
+
+// Swarm of the Raven
+//ALH/Quickdraw
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=1972985595&perks=3300816228,706527188
+
+//FP/AA
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=1972985595&perks=2869569095,2010801679
+
+// Rocket Launchers
+
+//Hoosegow
+//FP/Cluster
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=3669616453&perks=2869569095,1275731761
+
+//ALH/Cluster
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=3669616453&perks=3300816228,1275731761
+
+//Apex Predator
+//AA/ALH
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=2545083870&perks=2010801679,3300816228
+
+//Snapshot/Cluster
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=2545083870&perks=957782887,1275731761
+
+// Tomorrow's Answer
+//FP/Cluster
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=958384347&perks=2869569095,1275731761
+
+//FP/CC
+//notes:RokDC (it may work - Season of Arrivals)
+dimwishlist:item=958384347&perks=2869569095,2284787283
+
+
+// Swords
+
+// Falling Guilotine (dark drinker)
+//Jagg/Swordmast/Relent/Whirl
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
+
+// Steel Sybil
+//Jagg/Relentless/Whirlwind
+//notes:RokDC (must have - Season of Arrivals)
+dimwishlist:item=4230993599&perks=3666208348,1749209109,3913600130
